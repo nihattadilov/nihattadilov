@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nihad</h1>
 <h3 align="center">A python developer from Azerbaijan</h3>
 
+- 🔭 I’m currently working on **Django**
+
+- 📫 How to reach me **adilov.nihatt@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nihad-adilov-40b322230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihad-adilov-40b322230" height="30" width="40" /></a>
